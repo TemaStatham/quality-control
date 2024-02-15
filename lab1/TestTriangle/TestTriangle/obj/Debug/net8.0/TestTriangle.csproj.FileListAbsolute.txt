@@ -1,0 +1,15 @@
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\bin\Debug\net8.0\TestTriangle.exe
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\bin\Debug\net8.0\TestTriangle.deps.json
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\bin\Debug\net8.0\TestTriangle.runtimeconfig.json
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\bin\Debug\net8.0\TestTriangle.dll
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\bin\Debug\net8.0\TestTriangle.pdb
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\TestTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\TestTriangle.AssemblyInfoInputs.cache
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\TestTriangle.AssemblyInfo.cs
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\TestTriangle.csproj.CoreCompileInputs.cache
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\TestTriangle.sourcelink.json
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\TestTriangle.dll
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\refint\TestTriangle.dll
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\TestTriangle.pdb
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\TestTriangle.genruntimeconfig.cache
+D:\study\quality-control\quality-control\lab1\TestTriangle\TestTriangle\obj\Debug\net8.0\ref\TestTriangle.dll
